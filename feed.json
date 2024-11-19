@@ -1,11 +1,344 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "notes from out there.",
+	"title": "notes from the outer world.",
 	"icon": "https://micro.blog/z428/avatar.jpg",
 	"home_page_url": "https://notes.z428.eu/",
 	"feed_url": "https://notes.z428.eu/feed.json",
 	"items": [
 		
+			{
+				"id": "http://z428.micro.blog/2024/11/19/am-smallstepping-forward.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>8am, small-stepping forward, yet already ticked some checkboxes today and feeling both productive, surprised and falling for that giggling imposter again. The art of cheating oneself into a certain mood by just cutting tasks small enough. Or: Maybe sometimes just keeping steps that happen actually visible is a good thing on its own.</p>\n",
+				"date_published": "2024-11-19T07:57:24+01:00",
+				"url": "https://notes.z428.eu/2024/11/19/am-smallstepping-forward.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/19/dark-wave-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Dark wave for rainy mornings. Still waking up. Haven't been listening to these folks in ages (talking nostalgia and all), still resounds.</p>\n<p><a href=\"https://www.youtube.com/watch?v=BBTEIQZCHUw\">https://www.youtube.com/watch?v=BBTEIQZCHUw</a></p>\n<p><iframe width=\"400\" height=\"300\" src=\"https://www.youtube-nocookie.com/embed/BBTEIQZCHUw?si=WO5TXqEkMsY6lT89\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></p>\n<p>#ash_code  #dark_wave  #synth_wave  #italy  #music_for_mornings  </p>\n",
+				"date_published": "2024-11-19T07:34:41+01:00",
+				"url": "https://notes.z428.eu/2024/11/19/dark-wave-for.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/19/frher-morgen-einmal.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Früher Morgen, einmal mehr. Schwung des Mechanischen, einmal mehr. Kurz bevor die übrig gebliebene Müdigkeit wieder spürbar wird. Einzig in Nuancen zeigt sich noch die Nacht: Das intensive Gähnen, die letzten kratzigen Bilder der Träume, die noch etwas unruhigere Hand. Spätestens wenn sich der erste Kaffee fast über Tisch und Boden ergießt, darf der Tag als begonnen betrachtet werden. (Noch abgedrehte Heizung, offenes Fenster, so lang, bis aus dem Frösteln ein Frieren wird. Irgendwo piept eine Uhr, immer nur einmal irgendwann knapp vor der vollen Stunde, und die Aufmerksamkeitsspanne ist gerade kurz genug, nie in dem Fach zu graben, aus dem der wiederkehrende Ton klingt. Einmal mehr: Prioritäten. Und die Frage, welchen Dingen man seine Kraft schenkt. Habt es mild heute!)</p>\n",
+				"date_published": "2024-11-19T05:45:18+01:00",
+				"url": "https://notes.z428.eu/2024/11/19/frher-morgen-einmal.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/19/in-between-repetition.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>In between. Repetition to turn events into routine. Brief rest from rest. A sip of water and a peek around the twilight, inside, outside. Forehead on windowpane. Feeling the cold out there. A plethora of reasons for trembling. </p>\n",
+				"date_published": "2024-11-19T02:46:43+01:00",
+				"url": "https://notes.z428.eu/2024/11/19/in-between-repetition.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/sehr-viel-spter.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Sehr viel später: Fehlercodes und hilflose Geräte. Die Katze schläft weit genug entfernt und ignoriert alles, was sich nicht akut aufdrängt. Im Haus gegenüber leuchten wieder Zimmer, die lange Zeit schwarz blieben. Anderes Mobiliar, andere Farben, ein riesiger Tisch, ein ebensolcher Leuchter. Und ein dunkelhaariger Schopf, der in einem großen Sessel sitzt und auf einem Tablet liest. Fehlen von Vorhängen, eine Offenheit, die sich manchmal freundlich anfühlt und manchmal in die Rolle des verstohlenen Beobachters drängt, der sich schließlich verschämt abwendet. Nicht alle Geschichten wollen erzählt werden. (Have a peaceful night wherever you are.)</p>\n",
+				"date_published": "2024-11-18T22:35:24+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/sehr-viel-spter.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/herausforderung-anderer-art.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Herausforderung anderer Art. Enger Bus zur Stoßzeit. Ein buntes Durcheinander an Menschen und Zielen. Manchmal verschwimmen gehörte und gedachte Worte und es bleibt unklar, welche Themen außerhalb der eigenen Hülle stattfanden und welche reine Selbstbeschäftigung sind. Weihnachtssterne wachen noch dunkel über Torbögen. Auf altem Pflaster drängen sich immer mehr Buden. Daneben schwere Absperrungen, Mülltonnen, Wegweiser. Erste einkaufsmüde Touristen schleppen übervolle Taschen zu den Parkplätzen. Der Vorklang des Winters legt sich Wechselgeld zurecht und streift sein Gewand glatt. Es wird Abend. </p>\n",
+				"date_published": "2024-11-18T20:27:52+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/herausforderung-anderer-art.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/closing-in-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Closing in on 4pm. A shy sun briefly glancing through empty trees. Afternoon commuters on their way home, a dog barking at an e-scooter on the crossroad. Ballet of messengers in the streets, piles of brown boxes growing again. Still in a hurry. And in a responding mode, to collide with the idea of planned, systematic progress. In dire need of fresh air.</p>\n",
+				"date_published": "2024-11-18T15:58:08+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/closing-in-on.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/halb-im-tag.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Halb im Tag versunken und ein herbstlicher Sturm lässt die Blätter der Straßenbäume tanzen. Wolken rasen von Horizont zu Horizont, dicht, farblos, aber zumindest stellenweise durchdrungen mit einer Idee naher Sonne. Kurze Bewegungen über kalten Boden, die Sohlen zu dünn, Hose und Jacke auch. Hausmeister ordnet die Umgebung der Mülltonnen im Innenhof und raucht seine Mittagszigarette, auf dem Balkon nebenan wird Wäsche von der Leine und aus dem Geländer gesammelt. (Entlang des Weges: Prioritätenpoker. Stundenzettel, begonnene Grafiken und unfertige Texte. Keine Umleitung verfügbar. Route wird neu berechnet.)</p>\n",
+				"date_published": "2024-11-18T12:25:25+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/halb-im-tag.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/in-between-reoccurring.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://status.z428.eu/bl-content/uploads/pages/20864ed08e6dcf6e5fa7600258c35879/2ylylsv9qg9vlak8.jpg\" alt=\"A grey sky above fir branches. Winter mood.\" width=\"400\"></p>\n<p>In between. Re-occurring moments of serenity hiding from the noise elsewhere. // 📷 366skies</p>\n<p>#outerworld  #366skies  #concrete_city  #the_grey_days  #dresden  #smartphonephotography  </p>\n",
+				"date_published": "2024-11-18T12:17:28+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/in-between-reoccurring.html",
+				"tags": ["366skies"]
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/am-and-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>9am and on. Old tasks become new tasks. Snow faded, voices in the call echoed away in a digital void. Side tracks: Too much input again. Cutting down more sources. Lacking any productive means of dealing with it. And increasingly lacking coping mechanisms as well.</p>\n",
+				"date_published": "2024-11-18T09:37:48+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/am-and-on.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/and-then-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>(And then the morning gets noisier, kids below wake to another day, the street faces morning rush, wind gets stronger. And all of a sudden, the dense heavy rain turns into snow, with thick white flakes tumbling down into the grey depth in between the houses and there's that surreal, odd old feeling of peace in the very moment again.)</p>\n",
+				"date_published": "2024-11-18T07:49:32+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/and-then-the.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/ein-kurzer-film.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Ein kurzer Film ohne Pausen und Schnitte: Bett, Schlaf, Nacht über den Dächern, Küche. Geöffnete Fenster, frühe Kälte, ein langes Schweigen über allem. Erster Kaffee, davor möglichst nicht denken, nicht hören, nicht sehen, nur atmen. Etagen weiter unten fallen Schlüssel auf die steinernen Treppen, ein leises Schimpfen folgt, beides verhallt schnell zwischen Wänden und Türen. Dann: Maschinen in Gang bringen. Kennwörter und sonstige Formeln flüstern. Beobachten, wie die Strukturen sich verändern, sich in ihren gewohnten Dienst fügen. Erste Schritte gehen, wie auf einem dünnen Seil, durch Nebel, der nur langsam weicht. Habt es mild heute!</p>\n",
+				"date_published": "2024-11-18T05:51:11+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/ein-kurzer-film.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/18/somewhere-out-there.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Somewhere out there. Night as an unchartered world. The safety of the map is not the territory by any means, where creatures howl and ghosts whisper and another bottomless fear hides behind each and every shadow. Skipping pits, eyes closed. In these hours, we are but what we hope to be.</p>\n",
+				"date_published": "2024-11-18T03:15:51+01:00",
+				"url": "https://notes.z428.eu/2024/11/18/somewhere-out-there.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/17/neuer-abend-nach.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Neuer Abend, nach einem langen kurzen Tag. Erster Blick in die Woche, unvermeidbar. Gegenüber wurde das Wohnzimmer mit Lichterketten dekoriert, Schatten von Gästen ziehen über kleine helle Punkte. Zigarettenrauch, flackernde Kerzen, Wolkenrisse. Die Himmel: Mond, ein weicher Schleier vor dunkler Ferne. Im Kopf Antworten formuliert auf Dinge, die aufwühlen. Mehrere Korrekturen, viel mehr Unruhe, bis zum Atmen gegen Resignation und fehlendes Verständnis. Noch nicht gleichgültig genug. Trotz aller Hilflosigkeit. (Have a soothing night wherever you are.)</p>\n",
+				"date_published": "2024-11-17T22:02:44+01:00",
+				"url": "https://notes.z428.eu/2024/11/17/neuer-abend-nach.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/17/pm-dense-afternoon.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>4pm, dense afternoon grey. Later the day and colours remained. Lighting candles and listening to the few street sounds, lacking determination to fill the hours with more than just staying quiet inside. On multiple levels. </p>\n",
+				"date_published": "2024-11-17T15:58:48+01:00",
+				"url": "https://notes.z428.eu/2024/11/17/pm-dense-afternoon.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/17/afternoon-spectators-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://status.z428.eu/bl-content/uploads/pages/20c2d6e4e8e287425b8220be41ace78e/cff53x39mwid279f.jpg\" alt=\"Two birds on a birch tree. Grey sky behind.\" width=\"400\"></p>\n<p>Afternoon. Spectators. A waiting for the sun. // 📷 366skies </p>\n<p>#366skies  #outerworld  #smartphonephotography  #dresden  #autumn  </p>\n",
+				"date_published": "2024-11-17T14:40:54+01:00",
+				"url": "https://notes.z428.eu/2024/11/17/afternoon-spectators-a.html",
+				"tags": ["366skies"]
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/17/weiter-nrdlich-verweilen.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Weiter nördlich: Verweilen unter kahlen Ästen. Buntes Laub in dunkle Beete kratzen. Die Tropfen auf dem Laubendach hören. Feuchten Herbst atmen. Nahe ferne Stadt.</p>\n",
+				"date_published": "2024-11-17T11:14:02+01:00",
+				"url": "https://notes.z428.eu/2024/11/17/weiter-nrdlich-verweilen.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/17/am-the-clouds.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>10am. The clouds opted for rain. Wet hands cold hands and a small wind between the bridges and the river. New grey and fading green. Sundays out there.</p>\n",
+				"date_published": "2024-11-17T09:53:30+01:00",
+				"url": "https://notes.z428.eu/2024/11/17/am-the-clouds.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/17/stadt-hinter-den.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>(Stadt hinter den offenen Fenstern, als könnte es gar nicht anders sein. Unten hustet die Kaffeemaschine, nebenan der Nachbar. Kirchglocken, eine quietschende Tür, ein Auto rumpelt in der Straße. Alte Träume alte Welten, und dann wieder hier, vor dem ersten Kaffee und ohne bislang spürbaren Takt. Aber gewohnt und vertraut. Habt es mild heute!)</p>\n",
+				"date_published": "2024-11-17T07:01:23+01:00",
+				"url": "https://notes.z428.eu/2024/11/17/stadt-hinter-den.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/17/later-still-no.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Later still. No idea of hours or minutes, neither in numbers nor in concept. A howling illusion of a large locomotive pulling a long heavy freight train through the night. Sleeping forest. And an ever-indifferent river. Recalibrating the Now.</p>\n",
+				"date_published": "2024-11-17T03:14:37+01:00",
+				"url": "https://notes.z428.eu/2024/11/17/later-still-no.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/16/zurck-ber-den.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Zurück über den eigenen Dächern, das eigene Viertel vor Augen, seine kühle Müdigkeit spürend, mit der eigenen ringend. Zu früh für das noch junge Selbstgefühl, zu spät für die merklich ältere Wirklichkeit. Gegenüber wird in regloser Pose gelesen, an einem kleinen Schreibtisch bei trübem Licht. Vor der Kneipe wartet eine einsame Seele auf alles und nichts. Wortlosigkeit in den Höfen. Stilles Suchen nach Mond. Immer wieder. Have a calm night wherever you are. </p>\n",
+				"date_published": "2024-11-16T22:08:28+01:00",
+				"url": "https://notes.z428.eu/2024/11/16/zurck-ber-den.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/16/returning-focus-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Returning. Focus on the distance ahead, yet distracted by piling input still unprocessed. Houses. Communities. Empty seats. Other memories by far going beyond all photographic evidence. Time, amorphous and transient. And a moon above the meadows. </p>\n",
+				"date_published": "2024-11-16T18:52:09+01:00",
+				"url": "https://notes.z428.eu/2024/11/16/returning-focus-on.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/16/die-stille-zwischen.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Die Stille zwischen Dörfern. Abseits der Städte, der Gleise, der Autobahn. Ein Huhn kratzt in Dreck und Laub. Leere Straßen, leere Plätze, keine Menschen. Nur zwei Engel, verwitterter Stein, neben der Kirche. Aber immerhin Sonne. </p>\n",
+				"date_published": "2024-11-16T13:43:43+01:00",
+				"url": "https://notes.z428.eu/2024/11/16/die-stille-zwischen.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/16/along-the-road.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://status.z428.eu/bl-content/uploads/pages/659b7e71582fee8124736dabfdd8491e/qbj0opegbko2uz8o.jpg\" alt=\"Blue sky and white clouds in between old roofs.\" width=\"400\"></p>\n<p>Along the road. Untold stories. Forgotten fables. All that. // 📷 366skies </p>\n<p>#366skies  #outerworld  #smartphonephotography  #travel  </p>\n",
+				"date_published": "2024-11-16T11:28:55+01:00",
+				"url": "https://notes.z428.eu/2024/11/16/along-the-road.html",
+				"tags": ["366skies"]
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/16/am-elsewhere-other.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>11am elsewhere. Other cities other concrete other bridges other rivers. The wall of trees is not what it seems, and the houses behind seem to hide in a green more and more turning grey. Closed doors, strong fences, gardens filled with rocks instead of bushes. The effects of living close to wide roads, perhaps.</p>\n",
+				"date_published": "2024-11-16T11:27:16+01:00",
+				"url": "https://notes.z428.eu/2024/11/16/am-elsewhere-other.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/16/dorfmorgen-anderer-schlaf.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Dorfmorgen, anderer Schlaf, andere Träume, anderer Duft anderer Zimmer, andere Härte der Holztreppe unter nackten Füßen. Es ist eigentlich zu kalt, aber manche Gewohnheiten des Sommers bleiben lang erhalten. Eisiges Wasser, der gewohnte Schreck, das Prickeln danach, mit dem das Bewusstsein zurückkehrt. (Über Nacht sind Passwörter abgelaufen und Dienste stehengeblieben, aber dem lässt sich jetzt nicht beikommen. Zurzeit ist die Stadt fern, liegen hellgraue Wetter über den Hügeln, versucht der Tag in seinen Plan zu kommen. Merklich vor dem ersten Kaffee. Habt es mild heute!)</p>\n",
+				"date_published": "2024-11-16T06:41:22+01:00",
+				"url": "https://notes.z428.eu/2024/11/16/dorfmorgen-anderer-schlaf.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/irgendwann-bleibt-dann.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Irgendwann bleibt dann auch von diesem Abend nicht mehr viel, außer, noch einmal an der Hintertür zu stehen, in die Dunkelheit zu starren und zu erahnen, wie hinter dem Rand der eigenen Wahrnehmung die Nacht von ihrem Leben erfüllt wird. Einsames Fahrzeug auf menschenleerer Straße. Schattenspiele der Laterne in windgestreichelten Bäumen. Lichtpunkte von Fenstern hinter der Wiese, vertraute Konstellationen und trotzdem ungewohnte Muster, Farben. Dazwischen das Rauschen des Bachs und die Stille, die ihn umgibt. Gläser geleert, die möglichen Gedanken ausgetauscht, die kritischen weitestgehend gemieden. Keine Fledermaus, kein Mond, hoffentlich Schlaf. Have a calm night wherever you are!</p>\n",
+				"date_published": "2024-11-15T22:37:36+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/irgendwann-bleibt-dann.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/in-between-stepping.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>In between. Stepping back, watching oneself. That confusing shift in own speed, overflowing with thoughts and ideas right now and the very next moment mentally stuck in old sitcom quotes and the mood linked to them, diving through yesterdays unresolved fears and worries and wondering what they mean now. </p>\n",
+				"date_published": "2024-11-15T20:18:49+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/in-between-stepping.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/pm-and-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>4pm and on. Bags on the backseat, computer powered down yet kept close for now. Randomizing routes again, this time much more physical and much more annoying. Or: Heading for the woods, cautiously trying to stay out of the way of all the aggressive demanders to encounter out there. Right lane, keeping distances, just fast enough to still notice birds in the trees.</p>\n",
+				"date_published": "2024-11-15T16:06:05+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/pm-and-on.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/wenn-man-die.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Wenn man die Zeit aus den Augen lässt, flieht sie. Wieder Mittag. Aufschrecken, Türen öffnen, Pfoten und Krallen einer erschrockenen Katze ausweichen. Asphalt unter den Füßen. Stadt plötzlich um sich spüren, sich darüber klar werden, warum man da draußen ist. Supermarkt des geringsten Misstrauens. Zitronen, Schokolade, Wein. Nur keine Tagespresse wahrnehmen. Nie. Eine sehr alte Frau steht vor dem Regal und untersucht das Kleingedruckte auf der Milchpackung mit einer alten Lupe, alle angebotene Hilfe weist sie stolz und knapp zurück. Unwohlige Ahnungen über eigenes Altern, ferner und näher, über Wehmut und Eigentümlichkeit. Danach Postbote, ein kurzer Wortwechsel am Bordsteinrand. Gerade weit genug von den Nebenstraßenakademikern, denen es immer noch nicht gelingt, den eigenen Hausmeister zu grüßen. Lose Verbindungen vieler eng abgeschlossener Welten. Und immer noch keine Sonne.</p>\n",
+				"date_published": "2024-11-15T12:46:52+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/wenn-man-die.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/lunch-break-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://status.z428.eu/bl-content/uploads/pages/578ba6821d197369bf404bc309216393/hatbacambxqom1pm.jpg\" alt=\"Autumn sky behind branches of a tree. Some orange leaves are left. A three-headed lantern in the middle.\" width=\"400\"></p>\n<p>Lunch break. A trace of colour below these skies. A few steps, just for moving, even heading nowhere. // 📷 366skies</p>\n<p>#366skies  #outerworld  #smartphonephotography  #dresden  #urban_escapism  </p>\n",
+				"date_published": "2024-11-15T12:45:33+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/lunch-break-a.html",
+				"tags": ["366skies"]
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/a-browser-window.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>(A browser window in a browser window displaying a console with a terminal displaying code, hardly readable. Moving very slowly, like through a room filled with shelves of fragile art. Unsure which end will break with the next move. And every unpredictable outcome is just one keystroke away.)</p>\n",
+				"date_published": "2024-11-15T10:42:31+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/a-browser-window.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/am-and-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>9am and on. Or: Timeline predictions, random paths, alternating storyboards. Fitting in what needs to, making room to get into the right mood before. Spotting an idea of sun in between clouds and maybe this in itself is quite something to enjoy already. (Too: Exercises in ignoring noise. Exercises in being humble in face of individual options at hand. Exercises in not using technology as a means of status and tribalism.)</p>\n",
+				"date_published": "2024-11-15T08:56:03+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/am-and-on.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/das-fenster-des.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Das Fenster des Heimbüros blieb geöffnet, vergessen. Und die Nacht brachte regenfeuchte milde Luft, einen Hauch Flußwiese und Heide, ein paar leise Erinnerungen an die vorüberziehenden Wolken, die den neuen Tag noch vor den Sternen und ihrer Weite verstecken. Signalton aus der Tiefe irgendeines Geräts, aber die Suche bleibt ergebnislos. Kurzer Blick über andere Uhren, über unsortierte Nachrichten (zumindest in jenem Bereich, den man sich zu frühen Stunden zumuten möchte), über die Baumlinien am Horizont und den vollen Kalender. Und erster Kaffee, Funktionsgetränk und trotzdem Vorfreude. Sich vorstellend, wie die Welt langsam wieder hell wird. Habt es mild heute!</p>\n",
+				"date_published": "2024-11-15T05:56:14+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/das-fenster-des.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/15/past-am-considering.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Past 3am. Considering nights as a mental state. Moving all along curves. Hearing, feeling the voices of unseen animals. And the dark roaming that part of world.</p>\n",
+				"date_published": "2024-11-15T03:17:28+01:00",
+				"url": "https://notes.z428.eu/2024/11/15/past-am-considering.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/14/schlielich-wieder-abend.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Schließlich wieder Abend genug. Regen über dem Viertel, das gewohnte, beruhigende Trommeln auf dem Vordach und den Schiefern, auf parkenden Autos und der Straße weit unten. Irgendwo rufen sich eine Frauenstimme und eine Männerstimme Worte zu, der Klang bleibt, die Inhalte verschwimmen mit dem allgemeinen Rauschen. Eine Gruppe von Teenagern wartet in der Haltestelle auf alles und nichts, verweilt noch dort, als der Bus schon lang wieder in der nächsten Kreuzung verschwunden ist. Halb bewusst, daneben: Durch die Kiste Mit Den Dingen graben, ein Notizbuch suchen, alte Konzerttickets finden, Kugelschreiber von irgendwann, schwarzsilbrige Aufkleber, eine fast auseinandergefallene Zigarette, abgegriffene Postkarten mit der eigenen Handschrift, auf halbem Weg unterbrochen, dort verstaut. Alles einmal umfassen, mit den Händen und der Seele. Und wieder sicher verwahren, warum auch immer. Musik spielt weiter, schlägt andere Pfade ein, wird unterbrochen, lässt summende, leere Stille zurück. Diese Minuten brauchen nicht mehr. (Have a pleasant night wherever you are...)</p>\n",
+				"date_published": "2024-11-14T22:01:26+01:00",
+				"url": "https://notes.z428.eu/2024/11/14/schlielich-wieder-abend.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/14/who-said-you.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Who said you have no choice? Not that voice. (Old stuff. Still intense, sometimes sneaking into mind and dreams again.)</p>\n<p><a href=\"https://www.youtube.com/watch?v=-1u047Yd0rg\">https://www.youtube.com/watch?v=-1u047Yd0rg</a> </p>\n<p><iframe width=\"400\" height=\"300\" src=\"https://www.youtube-nocookie.com/embed/-1u047Yd0rg?si=U8BIKgVgY85lTqU1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></p>\n<p>#music_for_nights  #ebm  #industrial  #interlace  </p>\n",
+				"date_published": "2024-11-14T21:21:04+01:00",
+				"url": "https://notes.z428.eu/2024/11/14/who-said-you.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/14/too-some-mugs.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Too, some mugs of coffee and some hours later: Ones angels and demons out to party, without oneself being invited. Undecided if this is good or bad, yet at least it feels a bit left out. And for sure both will report back once the noise has settled. </p>\n",
+				"date_published": "2024-11-14T18:41:23+01:00",
+				"url": "https://notes.z428.eu/2024/11/14/too-some-mugs.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/14/elsewhere-along-roads.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://status.z428.eu/bl-content/uploads/pages/c68067d4107c153ade8f0178ef6df732/67u0dsm0xqaxh7qx.jpg\" alt=\"Greyish sky, traffic infrastructure and a bit of city.\" width=\"400\"></p>\n<p>Elsewhere. Along roads. Dim colours and a day not too keen on light. // 📷 366skies</p>\n<p>#366skies  #outerworld  #smartphonephotography  #dresden  #the_grey_days  </p>\n",
+				"date_published": "2024-11-14T15:33:57+01:00",
+				"url": "https://notes.z428.eu/2024/11/14/elsewhere-along-roads.html",
+				"tags": ["366skies"]
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/14/close-to-windows.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>(Close to windows, facing the weather, watching the rain get stronger. Looking ahead, reaching out to the past, once in a while experiencing situations where worlds melt into each other and things start feeling slightly surreal: Encountering people that are out of place or maybe just out of time. Suddenly following up on topics that bring up slightly unsettling memories. Unresolved contradictions. Stories of former ambitions. Stories of former fails too. Or things that at least feel this way.)</p>\n",
+				"date_published": "2024-11-14T15:02:47+01:00",
+				"url": "https://notes.z428.eu/2024/11/14/close-to-windows.html"
+			},
+			{
+				"id": "http://z428.micro.blog/2024/11/14/frhmittag-innehalten-fr.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Frühmittag. Innehalten für einige Minuten, andere Bewegungsabläufe üben, die Augen geschlossen, spüren, wie Muskeln spannen und Gelenke knacken. Der gefühlte Tag zieht über die Stadt wie ein ungestümer Herbstwind; dass Äste und Zweige der Bäume gegenüber reglos ruhen, die sonst bei kleinsten Böen singenden Regenrinnen und Dachbleche schweigen, irritiert und bringt die eigene Verortung im Jetzt kurzzeitig aus dem Tritt. Für den Moment: Notizen abarbeiten. Faden um Faden aus dem Knäuel des Morgens ziehen. Benachrichtigungen verschieben, in leere Postfächer starren. Ganz gleich, ob Kaffee oder Licht oder frische Luft: Noch nicht die richtige Balance gefunden, heute, bislang. </p>\n",
+				"date_published": "2024-11-14T11:50:24+01:00",
+				"url": "https://notes.z428.eu/2024/11/14/frhmittag-innehalten-fr.html"
+			},
 			{
 				"id": "http://z428.micro.blog/2024/11/14/am-and-on.html",
 				
